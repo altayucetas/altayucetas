@@ -30,5 +30,5 @@
 
 <p>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=altayucetas&" alt="altayucetas" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=altayucetas&show_icons=true&locale=en&layout=compact" alt="altayucetas" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=altayucetas&show_icons=true&locale=en&layout=compact" alt="altayucetas" height="195"/>
 </p>
