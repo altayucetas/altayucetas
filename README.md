@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kernel-Level Rootkit](https://github.com/altayucetas/my-rootkit)
 
-- 🌱 I’m currently learning **Windows Kernel, Game Hacking, Low-Level Security, Embedded Systems, Active Directory**
+- 🌱 I’m currently learning **Windows/Linux Kernel, Game Hacking, Low-Level Security, Embedded Systems, Active Directory**
 
 - 💬 Ask me about **Cyber Security**
 
